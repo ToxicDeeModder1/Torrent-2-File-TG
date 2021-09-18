@@ -15,7 +15,7 @@
     "leecher"
   ],
   "repository": "https://github.com/ToxicDeeModder1PublicLeech",
-  "success_url": "https://telegram.dog/NarutoXTorrentBot",
+  "success_url": "https://t.me/NarutoXTorrentBot",
   "website": "https://github.com/ToxicDeeModder1/PublicLeech",
   "env": {
     "ENV": {
